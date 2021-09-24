@@ -1,0 +1,1 @@
+You will need to install tesseract to use the number memory cheat.
